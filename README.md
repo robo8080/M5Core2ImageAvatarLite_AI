@@ -15,9 +15,9 @@ Google Cloud STTは、”MhageGH”さんの [esp32_CloudSpeech](https://github.
 
 ### 設定方法 ###
 
-1. dataフォルダ内にあるファイル及びフォルダをSDカードのルートにコピーしてください。
-<br>
-2. "/json/M5AvatarLiteSystem.json"の以下の設定を書き換えます。
+1. dataフォルダ内にあるファイル及びフォルダをSDカードのルートにコピーしてください。<br>
+
+2. "/json/M5AvatarLiteSystem.json"の以下の設定を書き換えます。<br>
     "wifi_ssid"             : "YOUR_WIFI_SSID",<br>
     "wifi_pass"             : "YOUR_WIFI_PASSWORD",<br>
     "openai_api_key"        : "SET YOUR OPENAI APIKEY",<br>
