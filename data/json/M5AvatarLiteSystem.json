@@ -1,0 +1,22 @@
+{
+    "volume" : 180,
+    "lcd_brightness" : 100,
+    "avatar_json": [
+        "/json/M5AvatarLite00slime.json",
+        "/json/M5AvatarLite01puipui.json",
+        "/json/M5AvatarLite02jacko.json",
+        "/json/M5AvatarLite03girl.json",
+        "/json/M5AvatarLite04robot.json",
+        "/json/M5AvatarLite05kaeru.json"
+    ],
+    "wifi_ssid"             : "YOUR_WIFI_SSID",
+    "wifi_pass"             : "YOUR_WIFI_PASSWORD",
+    "openai_api_key"        : "SET YOUR OPENAI APIKEY",
+    "voicevox_api_key"      : "SET YOUR VOICEVOX APIKEY",
+    "stt_api_key"           : "SET YOUR STT APIKEY",
+    "tts_speaker_no"        : 3,    
+    "servo_json" : "/json/M5AvatarLiteServo.json",
+    "servo_random_mode" : true,
+    "auto_power_off_time" : 0,
+    "led_lr" : 0
+}
