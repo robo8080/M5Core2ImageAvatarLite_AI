@@ -26,6 +26,7 @@ Google Cloud STTは、”MhageGH”さんの [esp32_CloudSpeech](https://github.
     "tts_speaker_no"        : 3,    <br>
 <br>
 "M5AvatarLiteSystem.json"の内容
+
 ```
 {
     "volume" : 180,
@@ -49,6 +50,7 @@ Google Cloud STTは、”MhageGH”さんの [esp32_CloudSpeech](https://github.
     "led_lr" : 0
 }
 ```
+
 <br><br>
 【注意】<br>"YOUR_STT_APIKEY"には"Google Cloud STTのAPIキー" または、"YOUR_OPENAI_APIKEY"と同じものを設定します。<br>
 "YOUR_STT_APIKEY"に"YOUR_OPENAI_APIKEY"と同じものを設定した場合は音声認識にOpenAI Whisperが使われます。<br>
