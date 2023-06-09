@@ -25,7 +25,7 @@ Google Cloud STTは、”MhageGH”さんの [esp32_CloudSpeech](https://github.
     "stt_api_key"           : "SET YOUR STT APIKEY",<br>
     "tts_speaker_no"        : 3,    <br>
 <br>
-"M5AvatarLiteSystem.json"の内容<br>
+"M5AvatarLiteSystem.json"の内容
 ```
 {
     "volume" : 180,
