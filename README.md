@@ -1,0 +1,2 @@
+# M5Core2ImageAvatarLite_AI
+AI版M5Core2ImageAvatarLite
